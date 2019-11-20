@@ -1,6 +1,6 @@
-ime = input("Enter your name: \n\n")
+x = input("Enter your name:")
 
-for c in ime:
+for c in x:
 
     c = c.upper()
     if (c == "A"):
@@ -59,5 +59,3 @@ for c in ime:
         print("..........\n..........\n..........\n..........\n\n")
     elif (c == "."):
         print("----..----\n\n")
-else:
-    print("Invalid input !")
