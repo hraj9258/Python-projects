@@ -15,6 +15,8 @@ def proces():
         answer=number1*number2
     if operator=="/":
         answer=number1/number2
+    if operator=="**":
+        answer=number1**number2
     Entry.insert(E4,0,answer)
     print(answer)
 
