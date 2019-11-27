@@ -6,6 +6,6 @@ elif num<10:
 elif num<100:
     print("Two degit number isenterd")
 elif num<=999:
-    print("Three digit njumber is enterd")
+    print("Three digit number is enterd")
 else:
-    print("Invalidentry. Valid range is 0 to 999.")
+    print("Invalid entry. Valid range is 0 to 999.")
