@@ -13,6 +13,7 @@ count=lst.count("green")
 print("printing the indexing value of blue:",seq)
 print("printing the list:",lst,"Hear black is extended","Red is removed")
 #print("Printing the extended list:",extd)
+#srt=lst.sort() it is used to short the list
 print("printing the poped character:",pop)
 print(count)
 #print(remove)
