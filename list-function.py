@@ -11,9 +11,10 @@ remove=lst.remove("red")
 count=lst.count("green")
 #clear=lst.clear()
 print("printing the indexing value of blue:",seq)
-print("printing the list:",lst,"Hear black is extended","Red is removed")
 #print("Printing the extended list:",extd)
 #srt=lst.sort() it is used to short the list
+#rvs=lst.reverse() used to reverse the list
+print("printing the list:",lst,"Hear black is extended","Red is removed")
 print("printing the poped character:",pop)
 print(count)
 #print(remove)
