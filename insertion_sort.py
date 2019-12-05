@@ -1,4 +1,4 @@
-lst=[15,14,13,12,11,23,34,45,56]
+lst=list(input("Please enter the list:"))
 print("Original list is:",lst)
 for i in range(1,len(lst)):
     key=lst[i]
