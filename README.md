@@ -1,2 +1,2 @@
 # Python-projects
-Some basic learning python projects
+Learning some basic python projects
